@@ -7,3 +7,5 @@ A simple Wikipedia crawler to reach the Philosophy article
 ``` $ npm install ```
 ### Run
 ``` $ node index ```
+
+Feel free to point out any errors or give suggestions or feedback!
