@@ -1,0 +1,25 @@
+{
+  "name": "wiki-philosophy-crawler",
+  "version": "1.0.0",
+  "description": "Wikipedia crawler to reach the Philosophy article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/13thThief/wikipedia-philosophy-crawler"
+  },
+  "keywords": [
+    "wikipedia",
+    "philosophy",
+    "crawler"
+  ],
+  "author": "manno",
+  "license": "Unlicense",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "ora": "^2.1.0",
+    "request": "^2.86.0"
+  }
+}
